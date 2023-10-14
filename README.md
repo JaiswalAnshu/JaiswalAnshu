@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/b2951f02b90641da36d5e8481012e7b300bc6cd42d168393b24a7231af17b1cf/68747470733a2f2f677261642e75776f2e63612f696d672f70726f6772616d732f6d64615f42616e6e65722e6a7067" alt="alt text" width="1000" height="300">
+<img src="https://smartwinzsolutions.com/images/web_analytics-banner.jpg" alt="alt text" width="1000" height="300">
 <h1 align="center">Hi 👋, I'm Anshu Jaiswal</h1>
 <h3 align="center">Passionate about uncovering hidden insights in data and turning them into actionable intelligence .</h3>
 <img align="right" alt="Coding" width="300" height="300" src="https://camo.githubusercontent.com/7aa780f97d51af2b67ff9ca2afa89ef67907c7b21abe9c7f8fb63fa707cf629a/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632">
