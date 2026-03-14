@@ -114,3 +114,6 @@ Power BI • Tableau • Looker Studio
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswalanshu"/>
 </p>
 
+
+
+[![Resume](https://img.shields.io/badge/Download-Resume-blue)](./https://github.com/JaiswalAnshu/JaiswalAnshu/blob/main/AnshuPriyaJaiswal_Resume.pdf)
