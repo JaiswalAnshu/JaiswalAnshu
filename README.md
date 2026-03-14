@@ -97,7 +97,6 @@ Power BI • Tableau • Looker Studio
 
 </p>
 
-
 ---
 
 # 📊 GitHub Stats
@@ -115,5 +114,7 @@ Power BI • Tableau • Looker Studio
 </p>
 
 
+## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Download-Resume-blue)](./https://github.com/JaiswalAnshu/JaiswalAnshu/blob/main/AnshuPriyaJaiswal_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](./AnshuPriyaJaiswal_Resume.pdf)
+
