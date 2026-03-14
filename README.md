@@ -1,26 +1,116 @@
-<img src="https://smartwinzsolutions.com/images/web_analytics-banner.jpg" alt="alt text" width="1000" height="300">
-<h1 align="center">Hi 👋, I'm Anshu Jaiswal</h1>
-<h3 align="center">Passionate about uncovering hidden insights in data and turning them into actionable intelligence .</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://camo.githubusercontent.com/7aa780f97d51af2b67ff9ca2afa89ef67907c7b21abe9c7f8fb63fa707cf629a/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswalanshu&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswalanshu" /> </p>
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="1000">
 
-- 🔭 I’m currently working on **enhancing my skills .**
+<h1 align="center">Hi 👋, I'm Anshu Priya Jaiswal</h1>
+<h3 align="center">Software Engineer | Python • SQL • Data Pipelines</h3>
 
-- 💬 Ask me about **𝘚𝘘𝘓, 𝘗𝘺𝘵𝘩𝘰𝘯 , 𝘌𝘹𝘤𝘦𝘭, 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐,ML , AI**
+<img align="right" height="300" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 📫 How to reach me **apjaiswal1999@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/anshupjaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/anshupjaiswal/" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=jaiswalanshu&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswalanshu&show_icons=true&locale=en&layout=compact" alt="jaiswalanshu" /></p>
+# 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswalanshu&show_icons=true&locale=en" alt="jaiswalanshu" /></p>
+I am a **Software Engineer** passionate about designing **scalable data pipelines, automated ingestion frameworks, and high-performance data processing systems using Python and SQL.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswalanshu&" alt="jaiswalanshu" /></p>
+My focus is on building **robust ETL systems, ensuring data quality, and enabling reliable data-driven decision making.**
+
+---
+
+# 💼 Professional Experience
+
+### Software Engineer — Data Engineering
+
+• Designed **high-performance Python/Pandas data ingestion pipelines** reducing manual event onboarding by **95%**
+
+• Built a **dynamic validation engine using JSON-based source-of-truth mapping** performing **40+ automated integrity checks per record**
+
+• Automated ingestion of **multi-sheet Excel templates into production SQL databases**
+
+---
+
+### Program Associate — Smartstaff
+
+• Used **SQL-based data analysis** to identify patterns in operational datasets and improve workflow efficiency
+
+• Performed **root cause analysis on stakeholder data**, strengthening analytical and data engineering foundations
+
+---
+
+# 🛠 Technical Skills
+
+### Data Engineering
+ETL Pipelines • Data Ingestion • Data Processing • Data Transformation • Data Modeling • Data Validation • Data Quality Checks
+
+### Programming
+Python • SQL • Advanced SQL • Pandas • NumPy
+
+### Databases
+MySQL • PostgreSQL • Relational Databases
+
+### Visualization
+Power BI • Tableau • Looker Studio
+
+---
+<h3 align="left">Connect With Me</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/anshupjaiswal">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/JaiswalAnshu">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+
+
+---
+
+<h3 align="left">Tools & Technologies</h3>
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
+
+<img src="https://cdn.simpleicons.org/github/ffffff" width="40"/>
+
+
+</p>
+
+
+---
+
+# 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswalanshu&layout=compact"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=jaiswalanshu&show_icons=true"/>
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswalanshu"/>
+</p>
+
