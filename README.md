@@ -118,5 +118,4 @@ Power BI • Tableau • Looker Studio
 
 [![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](./AnshuPriyaJaiswal_Resume.pdf)
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](./https://github.com/JaiswalAnshu/resume/blob/main/AnshuPriyaJaiswal_Resume.pdf?raw=true
-)
+
